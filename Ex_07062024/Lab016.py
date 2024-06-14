@@ -10,3 +10,10 @@ one = input("Enter number: ")
 two = input("enter num: ")
 add = one+two
 print(add)
+
+# If input is string , then + operator perform concatenation
+# if input is integer type , then + operator perform addition
+
+# type conversations
+# string to integer -- int()
+# int to str -- str()
