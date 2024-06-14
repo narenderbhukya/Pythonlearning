@@ -1,0 +1,6 @@
+print ( "Hi" , " Narender" , " Good morning")
+print ("Have" , "a grate" , " day")
+print ( "Hi" , " Narender" , " Good morning", sep = " @ " , end = "\t")
+print ("Have" , "a grate" , " day")
+print ( "Hi" , " Narender" , " Good morning", sep = " @ " , end = "\n")
+print ("Have" , "a grate" , " day")
